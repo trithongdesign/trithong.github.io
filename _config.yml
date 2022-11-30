@@ -3,8 +3,8 @@ email:             sssurajsuraj@gmail.com
 description:       Silent Observations
 author:            J
 #url:               "localhost:4000"
-url:               "http://trithong.design/"
-baseurl:
+url:               ""
+baseurl: /trithong.github.io
 
 # Social Profiles
 #twitter_username:  SBootstrap
