@@ -2,7 +2,8 @@ title:             Square Zero
 email:             sssurajsuraj@gmail.com
 description:       Silent Observations
 author:            J
-url:               "http://trithong.design"
+#url:               "localhost:4000"
+url:               "http://squarezero.github.io/"
 baseurl:
 
 # Social Profiles

@@ -7,11 +7,9 @@ This repository holds the official Jekyll version of Square Zero!
 
 ## Preview
 
-<img src="https://i.imgur.com/LLwpiPS.png" width="500">
-<img src="https://i.imgur.com/0tVWNjl.jpg" width="300">
-<img src="https://i.imgur.com/RNBwPo1.png" width="300">
-
 [![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+
+<img src="https://i.imgur.com/LLwpiPS.png" width="300">
 
 ## Installation & Setup
 
