@@ -4,7 +4,7 @@ description:       Silent Observations
 author:            J
 #url:               "localhost:4000"
 url:               "https://hithesun.com"
-baseurl: /trithong.github.io
+baseurl: https://hithesun.com
 
 # Social Profiles
 #twitter_username:  SBootstrap
