@@ -1,9 +1,8 @@
 title:             Square Zero
 email:             sssurajsuraj@gmail.com
 description:       Silent Observations
-author:            J
-#url:               "localhost:4000"
-url:               "https://hithesun.com"
+author:            
+url:               https://hithesun.com
 baseurl: https://hithesun.com
 
 # Social Profiles
